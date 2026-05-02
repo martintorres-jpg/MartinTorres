@@ -1,0 +1,33 @@
+ ⚠ You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://nextjs.org/docs/messages/non-standard-node-env
+   ▲ Next.js 15.3.3 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.22:3000
+
+ ✓ Starting...
+ ⚠ Invalid next.config.ts options detected: 
+ ⚠     Unrecognized key(s) in object: 'root' at "turbopack"
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+ ✓ Compiled middleware in 225ms
+ ✓ Ready in 1507ms
+ ○ Compiling / ...
+ ✓ Compiled / in 11.6s
+ GET / 200 in 13070ms
+ GET / 200 in 122ms
+ ✓ Compiled in 217ms
+ ✓ Compiled in 185ms
+ ✓ Compiled in 133ms
+ ✓ Compiled in 160ms
+ ✓ Compiled in 168ms
+ ✓ Compiled in 109ms
+ ✓ Compiled in 126ms
+ ✓ Compiled in 150ms
+ ✓ Compiled in 124ms
+ ✓ Compiled in 183ms
+ ✓ Compiled in 183ms
+ ✓ Compiled in 158ms
+ ✓ Compiled in 172ms
+ ✓ Compiled in 124ms
+ ✓ Compiled in 127ms
+ ✓ Compiled in 168ms
+ GET / 200 in 683ms
+ GET / 200 in 163ms
